@@ -1,2 +1,2 @@
 # Classification binaire SMS : spam, non-spam
-Énoncé : (./énoncé.pdf)
+[Voir l'énoncé (PDF)](./Énoncé.pdf)
